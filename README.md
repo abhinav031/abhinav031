@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m31_andromeda06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="m31_andromeda06" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucsv6ueq-oe7r0ngee-28smq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucsv6ueq-oe7r0ngee-28smq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSv6UeQ-Oe7r0NgEE-28SmQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucsv6ueq-oe7r0ngee-28smq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
