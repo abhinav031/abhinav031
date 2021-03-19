@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">A hobbyist programmer from India</h3>
+<h3 align="center">A "hobbyist" programmer from India</h3>
 
 - 🔭 I’m currently working on [TermBot](https://www.gitlab.com/abhinav031/termbot)
 
