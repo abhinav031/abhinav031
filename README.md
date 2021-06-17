@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav031&show_icons=true&theme=dracula&locale=en&layout=compact" alt="abhinav031" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav031&show_icons=true&theme=dracula&locale=en" alt="abhinav031" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhinav031&theme=darcula)](https://github.com/ryo-ma/github-profile-trophy)
